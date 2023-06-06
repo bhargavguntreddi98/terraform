@@ -1,3 +1,3 @@
 provider "aws" {
-  region = var.REGION
+  region = var.Region # collects the region data from the variable file
 }
