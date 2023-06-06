@@ -3,6 +3,7 @@
 Terraform is IAAC Tool which is usefult to p...
 
 ---
+
 ## Work completed (5JUN):
 
 - Completed Terraform basics.
