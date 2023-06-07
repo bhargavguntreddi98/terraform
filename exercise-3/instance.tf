@@ -37,5 +37,5 @@ resource "aws_instance" "intro" {
 }
 
 output "PublicIp" {
- value = aws_instance.intro.public_ip
+  value = aws_instance.intro.public_ip
 }
